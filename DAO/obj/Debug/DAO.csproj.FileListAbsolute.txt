@@ -1,0 +1,102 @@
+E:\DoAn_D2K\DAO\bin\Debug\DAO.dll.config
+E:\DoAn_D2K\DAO\bin\Debug\DAO.dll
+E:\DoAn_D2K\DAO\bin\Debug\DAO.pdb
+E:\DoAn_D2K\DAO\bin\Debug\DTO.dll
+E:\DoAn_D2K\DAO\bin\Debug\EntityFramework.dll
+E:\DoAn_D2K\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoAn_D2K\DAO\bin\Debug\DTO.pdb
+E:\DoAn_D2K\DAO\bin\Debug\EntityFramework.xml
+E:\DoAn_D2K\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoAn_D2K\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\DoAn_D2K\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\DoAn_D2K\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\DoAn_D2K\DAO\obj\Debug\DAO.dll
+E:\DoAn_D2K\DAO\obj\Debug\DAO.pdb
+E:\DoAn_D2K - Copy\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\DoAn_D2K - Copy\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\DoAn_D2K - Copy\DAO\obj\Debug\DAO.dll
+E:\DoAn_D2K - Copy\DAO\obj\Debug\DAO.pdb
+E:\DoAn_D2K - Copy\DAO\bin\Debug\DAO.dll.config
+E:\DoAn_D2K - Copy\DAO\bin\Debug\DAO.dll
+E:\DoAn_D2K - Copy\DAO\bin\Debug\DAO.pdb
+E:\DoAn_D2K - Copy\DAO\bin\Debug\DTO.dll
+E:\DoAn_D2K - Copy\DAO\bin\Debug\EntityFramework.dll
+E:\DoAn_D2K - Copy\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoAn_D2K - Copy\DAO\bin\Debug\DTO.pdb
+E:\DoAn_D2K - Copy\DAO\bin\Debug\EntityFramework.xml
+E:\DoAn_D2K - Copy\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoAn_D2K - Copy\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\LD\DoAn_D2K - Copy\DAO\bin\Debug\DAO.dll.config
+D:\LD\DoAn_D2K - Copy\DAO\bin\Debug\DAO.dll
+D:\LD\DoAn_D2K - Copy\DAO\bin\Debug\DAO.pdb
+D:\LD\DoAn_D2K - Copy\DAO\bin\Debug\DTO.dll
+D:\LD\DoAn_D2K - Copy\DAO\bin\Debug\EntityFramework.dll
+D:\LD\DoAn_D2K - Copy\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\LD\DoAn_D2K - Copy\DAO\bin\Debug\DTO.pdb
+D:\LD\DoAn_D2K - Copy\DAO\bin\Debug\EntityFramework.xml
+D:\LD\DoAn_D2K - Copy\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\LD\DoAn_D2K - Copy\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\LD\DoAn_D2K - Copy\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\LD\DoAn_D2K - Copy\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\LD\DoAn_D2K - Copy\DAO\obj\Debug\DAO.dll
+D:\LD\DoAn_D2K - Copy\DAO\obj\Debug\DAO.pdb
+E:\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.dll.config
+E:\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.dll
+E:\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.pdb
+E:\DoAn_D2K_HoanChinh\DAO\bin\Debug\DTO.dll
+E:\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.dll
+E:\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoAn_D2K_HoanChinh\DAO\bin\Debug\DTO.pdb
+E:\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.xml
+E:\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.dll
+E:\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.pdb
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.dll.config
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.dll
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.pdb
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\bin\Debug\DTO.dll
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.dll
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\bin\Debug\DTO.pdb
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.xml
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.dll
+D:\DATA_USER\Final\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.pdb
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.dll
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.pdb
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.dll.config
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.dll
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.pdb
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\bin\Debug\DTO.dll
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.dll
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\bin\Debug\DTO.pdb
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.xml
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\bin\Debug\log4net.dll
+C:\Users\delam\OneDrive\Máy tính\DoAn_D2K_HoanChinh\DAO\bin\Debug\log4net.xml
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.dll.config
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.dll
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\bin\Debug\DAO.pdb
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\bin\Debug\DTO.dll
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.dll
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\bin\Debug\log4net.dll
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\bin\Debug\DTO.pdb
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.xml
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\bin\Debug\log4net.xml
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.dll
+C:\Users\delam\OneDrive\Máy tính\New folder\DoAn_D2K_HoanChinh\DAO\obj\Debug\DAO.pdb

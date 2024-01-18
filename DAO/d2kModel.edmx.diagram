@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7ccf774887d043e38d3f797c6d0bae50" Name="Diagram1">
+        <EntityTypeShape EntityType="D2KModel.CT_HoaDon" Width="1.5" PointX="5.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="D2KModel.HoaDon" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="D2KModel.KhachHang" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="D2KModel.NhanVien" Width="1.5" PointX="0.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="D2KModel.SanPham" Width="1.5" PointX="3" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="D2KModel.sysdiagram" Width="1.5" PointX="5.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="D2KModel.TaiKhoan" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
+        <AssociationConnector Association="D2KModel.fk_ct_hoadon_mahd" ManuallyRouted="false" />
+        <AssociationConnector Association="D2KModel.fk_ct_hoadon_masp" ManuallyRouted="false" />
+        <AssociationConnector Association="D2KModel.fk_hoadon_makh" ManuallyRouted="false" />
+        <AssociationConnector Association="D2KModel.fk_hoadon_manv" ManuallyRouted="false" />
+        <AssociationConnector Association="D2KModel.FK_TaiKhoan_NhanVien" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
